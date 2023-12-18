@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Development of content builder for "Haskell is Beautiful" started.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://play.google.com/store/apps/details?id=com.WittyLion.haskell_is_beautiful"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Download in Play Market
         </a>
       </header>
     </div>
