@@ -5,7 +5,7 @@ import ContentBuilder from "./pages/ContentBuilder";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="hib-content-builder">
       <Routes>
         <Route index element={<Home />} />
         <Route path="builder" element={<ContentBuilder />} />
